@@ -1,8 +1,6 @@
-On branch master
-Your branch is up to date with 'origin/master'.
+Hello world, I am Markkim a novice software engineer
+my star is scorpio
+  
+	
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	./
 
-nothing added to commit but untracked files present (use "git add" to track)
